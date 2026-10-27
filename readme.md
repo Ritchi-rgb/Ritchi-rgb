@@ -1,0 +1,6 @@
+Bonjour
+Je suis Richard Bensoussan
+Je suis Ingénieur systèmes er réseaux
+Je suis suis actuellement en formation Administrateur système Devops
+Je me débrouille mieuux en Linux, en bash, ...
+Je suis en train d'apprendre Git ...
