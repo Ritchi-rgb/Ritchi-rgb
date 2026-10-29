@@ -1,6 +1,6 @@
 Bonjour
 Je suis Richard Bensoussan
 Je suis Ingénieur systèmes er réseaux
-Je suis suis actuellement en formation Administrateur système Devops
+Je suis actuellement en formation Administrateur système Devops
 Je me débrouille mieux en Linux, en bash, ...
 Je suis en train d'apprendre Git ...
